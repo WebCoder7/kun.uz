@@ -1,0 +1,171 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+    font-family: 'Kanit', sans-serif;
+    /* font-family: 'Libre Baskerville', serif; */
+}
+
+.list{
+    display: flex;
+    justify-content: center;
+}
+
+
+.list_item{
+    font-weight: 800;
+    font-size: 18px;
+    margin-left: 15px;
+    cursor: pointer;
+    
+}
+
+.list_item:hover{
+    color: blue;
+    font-weight: 900;
+}
+
+
+nav{
+    margin-top: 10px;
+}
+
+
+.col-1{
+    cursor: pointer;
+}
+
+
+.btn1{
+    padding: 10px 30px;
+    color: rgb(255, 255, 255);
+    background: rgb(4, 4, 173);
+    border: none;
+}
+
+
+.list1{
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+    padding-top:10px;
+    margin-bottom: -5px;
+
+}
+
+
+.list_iteam1{
+    font-weight: 600;
+    color: rgba(17, 7, 7, 0.977);
+}
+
+
+.list_iteam1:hover{
+    color: blue;
+    cursor: pointer;
+}
+
+
+.fransiya{
+    width: 100%;
+}
+
+
+.ozbekiston{
+    font-size: 18px;
+    font-weight: 300;
+    cursor: pointer;
+}
+
+
+.ozbekiston:hover{
+    color: blue;
+
+}
+
+
+.on{
+    margin-top: 10px;
+    font-weight: 300;
+}
+
+
+.shartnoma{
+    margin-bottom: 30px;
+}
+
+.muharrir{
+    font-weight: 700;
+    cursor: pointer;
+    margin-bottom: 40px;
+}
+
+
+.muharrir:hover{
+    color: blue;
+}
+
+
+.sana{
+    font-size: 14px;
+    padding-top: 20px;
+    margin-bottom: 30px;
+}
+
+
+.shavkat{
+    font-weight: 700;
+    font-size: 30px;
+    margin-bottom: 40px;
+}
+
+
+.birlik{
+    color: rgb(19, 22, 24);
+    font-size: 23px;
+}
+
+
+.shavkat:hover{
+    font-weight: 700;
+    cursor: pointer;
+    color: blue;
+    font-size: 30px;
+    margin-bottom: 40px;
+}
+
+
+.birlik:hover{
+    cursor: pointer;
+    color: blue;
+    font-size: 23px;
+}
+
+
+.media{
+    width: 100%;
+}
+
+
+.sanamatni{
+    color: rgb(39, 49, 55);
+    font-weight: 500;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+.matnlorem{
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 50px;
+}
+
+
+.matnlorem:hover {
+    cursor: pointer;
+    color: blue;
+    
+}
